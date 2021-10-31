@@ -1,0 +1,5 @@
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab4 Tema\obj\Debug\net5.0\Lab4 Tema.csproj.AssemblyReference.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab4 Tema\obj\Debug\net5.0\Lab4 Tema.GeneratedMSBuildEditorConfig.editorconfig
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab4 Tema\obj\Debug\net5.0\Lab4 Tema.AssemblyInfoInputs.cache
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab4 Tema\obj\Debug\net5.0\Lab4 Tema.AssemblyInfo.cs
+D:\!! IS\An IV S1\Dezvoltarea aplicatiilor de tip Cloud\Lab4 Tema\obj\Debug\net5.0\Lab4 Tema.csproj.CoreCompileInputs.cache
